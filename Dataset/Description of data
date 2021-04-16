@@ -1,1 +1,4 @@
-In this research, different types of recommender engines were built on the wine data from WineEnthusiast website. The data is publicly available in Kaggle and was obtained from there. It contains 130 000 reviews about different wine varieties. The data contains information about the location of wine (country, province, region), rating of the wine (max is 100 points), taster name and twitter handle, the type of grape(s), the name of winery that made the wine, description and details about the wine, and price per bottle of the wine. 
+In this research, different types of recommender engines were built on the wine data from WineEnthusiast website. 
+The data is publicly available in Kaggle and was obtained from there. It contains 130 000 reviews about different wine varieties. 
+The data contains information about the location of wine (country, province, region), rating of the wine (max is 100 points),
+taster name and twitter handle, the type of grape(s), the name of winery that made the wine, description and details about the wine, and price per bottle of the wine. 
