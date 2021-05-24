@@ -1,1 +1,4 @@
-# Thesis_Recommender_Systems
+# Thesis 
+The subject of my master thesis is **Wine recommendation based on sommelier comments and amateurs' ratings**. 
+In this research I discussed different approaches to recommender systems, their strengths and weaknesses, as well as we discuss some of the measures that are important to consider when choosing the appropriate system. I mainly focused on Collaborative, Content-Based and Hybrid Recommendation Systems and draw parallels among these approaches to characterize experimental settings appropriate for the final decision. 
+To evaluate the differences, pros and cons of above-mentioned recommenders 130 000 wine reviews dataset from WineEnthusiast  journal is used. Wine data and the wine industry were chosen because of the lack of wide applications of recommender systems in this sphere and the specificity of the data.
